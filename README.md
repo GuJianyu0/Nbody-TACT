@@ -25,19 +25,19 @@ Libraries: `gsl`, `fftw3`, `eigen3`, `lapack`, `hdf5`, `mpich`, `python3`
 
 ## Installation
 
+```bash
 cd Nbody-TACT/aa/
-
 bash step1_1_compile_all.bat
+```
 
 ## Running
 
+```bash
 cd Nbody-TACT/aa/
-
 bash step1_2_compile_SCF.bat
-
 bash step1_3_prepare_foci.bat
-
 bash step2_run.bat
+```
 
 ## Changing from TACT (Sanders & Binney, 2016)
 
